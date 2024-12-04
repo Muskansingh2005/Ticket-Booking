@@ -80,6 +80,7 @@ const BookingPage = () => {
               Card 1
             </motion.div>
 
+
             {/* Animated Card 2 */}
             <motion.div
               className="bg-black h-[300px] w-[600px] rounded-lg shadow-lg flex items-center justify-center text-white text-2xl font-semibold cursor-pointer"
